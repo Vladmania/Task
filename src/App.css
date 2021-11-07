@@ -1,0 +1,18 @@
+body{
+  color: rgb(77, 77, 77);
+  min-width: 230px;
+  max-width: 550px;
+  -webkit-font-smoothing: antialiased;
+  font: 300 14px / 1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: rgb(245, 245, 245);
+  margin: 0px auto;
+}
+
+.checkboxTodo{
+  margin: 10px 20px 5px;
+}
+.done{
+  text-decoration: line-through;
+  color: rgba(73, 67, 67, 0.527);
+}
+
